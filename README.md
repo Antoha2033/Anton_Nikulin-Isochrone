@@ -1,4 +1,4 @@
-# Jeu en VR - "Traversée du Canyon"
+# "Isochrone"
 
 ## Table of Contents
 
