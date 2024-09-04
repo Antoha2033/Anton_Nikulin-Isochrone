@@ -5,6 +5,10 @@
 - [Description](#description)
 - [Qui?](#Caractéristiques-clés)
 - [Quand?](#image-moodboard)
+- [Où?](#image-moodboard)
+- [Quoi?](#image-moodboard)
+- [Comment?](#image-moodboard)
+- [Appréciation et commentaire personnel?](#image-moodboard)
 
 
 
@@ -66,6 +70,6 @@ Fonctionnement : Expliquez comment cette composante centrale opère dans l'œuvr
 
 Impact : Discutez de l'impact de cette composante sur la réception de l'œuvre. En quoi cet élément distingue-t-il l'œuvre dans le paysage multimédia ?
 
-Appréciation et commentaire personnel
+## Appréciation et commentaire personnel
 
 ( Pourquoi avoir choisi cette oeuvre)
