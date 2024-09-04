@@ -4,12 +4,10 @@
 ## Description
 
 <table>
-  <tr>
-![Image 1](/Images/1.jpg)
-![Image 1](/Images/2.jpg)
-  </tr>
-    
+    <td><img src="Images/2.jpg" alt="Image 1" ></td>
+      <td><img src="Images/1.jpg" alt="Image 1" ></td>
 </table>
+
 
 
 ## Qui?
