@@ -15,6 +15,12 @@ Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre.
 
 Collaborateurs et partenaires : Indiquez les institutions, sponsors ou partenaires qui ont contribué à la réalisation de l'œuvre.
 
+<table>
+  <tr>
+    <td><img src="Asset/enviroment-2.jpg" alt="Image 1" ></td>
+    <td><img src="Asset/enviroment-4.jpg" alt="Image 2" ></td>
+  </tr>
+
 
 ## Quand?
 (Date de création et de présentation)
