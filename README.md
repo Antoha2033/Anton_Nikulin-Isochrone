@@ -61,7 +61,11 @@ Processus de création : Fournissez des détails sur la manière dont l'œuvre a
 (Une composante centrale à l'œuvre et son fonctionnement)
 
 Composante centrale : Identifiez l'élément clé qui caractérise l'œuvre. Cela pourrait être une technologie spécifique, une approche narrative, ou une interaction particulière avec le public.
+
 Fonctionnement : Expliquez comment cette composante centrale opère dans l'œuvre. Comment contribue-t-elle à l'expérience globale ? Quel rôle joue-t-elle dans l'engagement du public ou dans l'atteinte des objectifs de l'œuvre ?
+
 Impact : Discutez de l'impact de cette composante sur la réception de l'œuvre. En quoi cet élément distingue-t-il l'œuvre dans le paysage multimédia ?
+
 Appréciation et commentaire personnel
+
 ( Pourquoi avoir choisi cette oeuvre)
