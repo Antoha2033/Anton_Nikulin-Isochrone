@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Qui?](#qui?)
-- [Quand?](#image-moodboard)
+- [Qui?](#Qui?)
+- [Quand?](#Quand?)
 - [Où?](#image-moodboard)
 - [Quoi?](#image-moodboard)
 - [Comment?](#image-moodboard)
