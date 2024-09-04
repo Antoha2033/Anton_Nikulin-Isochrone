@@ -17,8 +17,8 @@ Collaborateurs et partenaires : Indiquez les institutions, sponsors ou partenair
 
 
   <tr>
-    <td><img src="Asset/enviroment-2.jpg" alt="Image 1" ></td>
-    <td><img src="Asset/enviroment-4.jpg" alt="Image 2" ></td>
+    <td><img src="Images/1" alt="Image 1" ></td>
+    <td><img src="Images/2" alt="Image 2" ></td>
   </tr>
 
 
