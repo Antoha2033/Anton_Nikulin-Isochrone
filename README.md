@@ -15,7 +15,7 @@ Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre.
 
 Collaborateurs et partenaires : Indiquez les institutions, sponsors ou partenaires qui ont contribué à la réalisation de l'œuvre.
 
-![Image 1](Imgages/1.jpg)
+![Image 1](Images/1.jpg)
 
 
 ## Quand?
