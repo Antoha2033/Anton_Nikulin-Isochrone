@@ -15,11 +15,7 @@ Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre.
 
 Collaborateurs et partenaires : Indiquez les institutions, sponsors ou partenaires qui ont contribué à la réalisation de l'œuvre.
 
-
-  <tr>
-    <td><img src="Images/1.jpg" alt="Image 1" ></td>
-    <td><img src="Images/2.jpg" alt="Image 2" ></td>
-  </tr>
+![Image 1](Imgages/1.jpg)
 
 
 ## Quand?
