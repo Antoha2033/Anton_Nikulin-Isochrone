@@ -10,7 +10,7 @@
 
 ## Description
 
-The light sculptures are inspired by the moving circle as a basic element of the growth of certain plants. Isochronous – which has the same duration as another phenomenon – is expressed as much by the three-dimensional shape of the wooden sculpture as by the luminous movement. The shape of the sculpture and the video projection are generated using mathematical formulas of the circle and the spiral. It is the circle and its cycle that unites the two mediums.
+
 
 
 ## Qui ?
