@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Qui?](#Qui?)
+- [Qui?](#qui?)
 - [Quand?](#image-moodboard)
 - [Où?](#image-moodboard)
 - [Quoi?](#image-moodboard)
@@ -17,7 +17,7 @@
 
 
 
-## Qui ?
+## Qui?
 (Auteur, Équipe)
 
 Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre.
@@ -27,7 +27,7 @@ Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre.
 Collaborateurs et partenaires : Indiquez les institutions, sponsors ou partenaires qui ont contribué à la réalisation de l'œuvre.
 
 
-## Quand ?
+## Quand?
 (Date de création et de présentation)
 
 Date de création : Précisez quand l'œuvre a été créée. Mentionnez les périodes de conception, de développement, et de production si pertinent.
@@ -37,7 +37,7 @@ Date de première présentation : Indiquez la date à laquelle l'œuvre a été 
 Dates importantes : Ajoutez toute autre date significative liée à l'œuvre, comme les dates de tournées, d'expositions ou de remises de prix.
 
 
-## Où ?
+## Où?
 (Contexte de présentation)
 
 Lieu de présentation initiale : Mentionnez l'endroit où l'œuvre a été présentée pour la première fois (galerie, musée, festival, en ligne, etc.).
@@ -47,7 +47,7 @@ Contexte géographique et culturel : Donnez des détails sur le cadre culturel o
 Autres lieux de présentation : Si l'œuvre a été présentée en plusieurs endroits, énumérez ces lieux avec les dates correspondantes.
 
 
-## Quoi ?
+## Quoi?
 (Description de l'œuvre)
 
 Description générale : Donnez une vue d'ensemble de l'œuvre. Qu'est-ce que c'est ? (installation, performance, vidéo, réalité virtuelle, etc.)
@@ -61,7 +61,7 @@ Aspects techniques : Décrivez les aspects techniques importants, comme les tech
 Processus de création : Fournissez des détails sur la manière dont l'œuvre a été développée. Cela peut inclure des éléments comme l'écriture du scénario, la composition musicale, la programmation, etc.
 
 
-## Comment ?
+## Comment?
 (Une composante centrale à l'œuvre et son fonctionnement)
 
 Composante centrale : Identifiez l'élément clé qui caractérise l'œuvre. Cela pourrait être une technologie spécifique, une approche narrative, ou une interaction particulière avec le public.
