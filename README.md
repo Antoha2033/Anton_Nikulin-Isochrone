@@ -2,12 +2,25 @@
 
 ## Table of Contents
 
-- [Résumé](#Summary)
 - [Description](#description)
-- [Caractéristiques clés](#Caractéristiques-clés)
-- [Image Moodboard](#image-moodboard)
+- [Qui?](#Caractéristiques-clés)
+- [Quand?](#image-moodboard)
 - [Sons Moodboard](#Sons-moodboard)
 - [Carte de l'environnement virtuel](#virtual-environment-map)
 - [Draw.io Schema](#drawio-schema)
 
-## Résumé
+
+
+"Traversée du Canyon", est un jeu de parkour VR où l'équilibre du joueur est son outil principal.
+
+## Description
+
+asdffdsafdsdffsdffffffff
+
+## Qui?
+
+asdffdsafdsdffsdffffffff
+
+## Quand?
+
+asdffdsafdsdffsdffffffff
