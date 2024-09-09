@@ -1,6 +1,5 @@
 # "Isochrone"
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/535573224?h=816664253b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 
 # Qui?
@@ -64,6 +63,8 @@ Cet intérêt pour le cycle de croissance des végétaux pourrait provenir des e
   </tr>
 </table>
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/535573224?h=816664253b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 ## Objectifs de l'œuvre :
 
 Les intentions de Manuel Chantre avec "Isochrone" sont de créer une expérience immersive qui explore la relation entre lumière, forme, et mouvement, en s’inspirant du cercle en mouvement comme symbole de croissance naturelle. L'œuvre vise à illustrer le concept d'isochronisme, c'est-à-dire la simultanéité de phénomènes différents, en utilisant des sculptures lumineuses pour évoquer la manière dont des éléments naturels et technologiques peuvent interagir de manière synchronisée. Le message principal est de souligner l'harmonie entre la nature et la technologie, tout en invitant le public à réfléchir sur la perception du temps et de l'espace à travers le mouvement et la lumière.
@@ -110,14 +111,16 @@ L'élément clé de l'œuvre "Isochrone" est la sculpture lumineuse tridimension
 
 ## Fonctionnement :
 
-Mouvement et Forme : Le mécanisme interne de la sculpture permet à ses parties de se mouvoir en imitant le cercle en mouvement. Ce mouvement est soigneusement calibré pour créer des motifs et des changements dans la perception de la lumière.
+Mouvement : Le mécanisme interne de la sculpture permet à ses parties de se bouger en imitant le cercle en mouvement.
 
-Éclairage LED : Les LEDs sont programmées pour émettre des variations lumineuses qui réagissent au mouvement de la sculpture. La lumière et le mouvement sont synchronisés pour accentuer les motifs créés, créant ainsi une expérience visuelle dynamique.
+Éclairage LED : Les LEDs sont programmées pour émettre des variations lumineuses qui réagissent au mouvement de la sculpture.
 
-Ces éléments contribuent à l'expérience globale en offrant une interaction constante entre le spectateur et l'œuvre. La sculpture évolue visuellement au fur et à mesure de son mouvement, permettant aux visiteurs d'observer des transformations lumineuses en temps réel. Cette dynamique aide à exprimer le concept d’isochronisme, en montrant comment deux éléments peuvent fonctionner en harmonie pour créer une expérience simultanée et intégrée. 
+La sculpture évolue visuellement au fur et à mesure de son mouvement, permettant aux visiteurs d'observer des transformations lumineuses en temps réel. Cette dynamique aide à exprimer le concept d’isochronisme, en montrant comment deux éléments peuvent fonctionner en harmonie pour créer une expérience simultanée et intégrée. 
 
-Impact : Discutez de l'impact de cette composante sur la réception de l'œuvre. En quoi cet élément distingue-t-il l'œuvre dans le paysage multimédia ?
+## Impact :
+
+La composante centrale de Isochrone distingue l'œuvre dans le paysage multimédia par son intégration de la technologie lumineuse et du mouvement mécanique. En utilisant ces techniques crée une œuvre qui non seulement capte l'attention par sa beauté visuelle, mais aussi engage le public sur un plan intellectuel et sensoriel. Cette interaction entre lumière et mouvement offre une expérience immersive qui se distingue par son approche unique de la sculpture.
 
 # Appréciation et commentaire personnel
 
-( Pourquoi avoir choisi cette oeuvre)
+Je présente cette pièce principalement de sa beauté visuelle. Dans un monde où l'art moderne peut être difficile à appréssier et où certains travaux semblent enveloppés de messages vagues, simplistes ou exagérés, il est rafraîchissant de découvrir une œuvre dont le sens est clair et, surtout, agréable à regarder. Cette œuvre se distingue par sa simplicité esthétique et clarté conceptuelle, offrant ainsi une expérience visuelle agréable.
