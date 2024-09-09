@@ -5,18 +5,7 @@
 
 <table>
   <tr>
-    <td><img src="Images/1.jpg" alt="Image 1" ></td>
-    <td><img src="Images/2.jpg" alt="Image 2" ></td>
-  </tr>
-    
-  <tr>
-    <td><img src="Images/3.jpg" alt="Image 3" ></td>
-    <td><img src="Images/4.jpg" alt="Image 4" ></td>
-  </tr>
-    
-  <tr>
-    <td><img src="Images/5.jpg" alt="Image 5" ></td>
-    <td><img src="Images/6.jpg" alt="Image 6" ></td>
+    <td><img src="Images/1.jpg" alt="id" ></td>
   </tr>
 </table>
 
@@ -58,6 +47,23 @@ Autres lieux de présentation : Si l'œuvre a été présentée en plusieurs end
 
 ## Quoi?
 (Description de l'œuvre)
+
+<table>
+  <tr>
+    <td><img src="Images/1.jpg" alt="Image 1" ></td>
+    <td><img src="Images/2.jpg" alt="Image 2" ></td>
+  </tr>
+    
+  <tr>
+    <td><img src="Images/3.jpg" alt="Image 3" ></td>
+    <td><img src="Images/4.jpg" alt="Image 4" ></td>
+  </tr>
+    
+  <tr>
+    <td><img src="Images/5.jpg" alt="Image 5" ></td>
+    <td><img src="Images/6.jpg" alt="Image 6" ></td>
+  </tr>
+</table>
 
 Description générale : Donnez une vue d'ensemble de l'œuvre. Qu'est-ce que c'est ? (installation, performance, vidéo, réalité virtuelle, etc.)
 
