@@ -37,7 +37,7 @@ Participant·e·s aux ateliers : Sarra Boussoukaya, Madouba Diallo, Maité Murie
 
 ## Quand?
 
-L'œuvre d'art était accessible au public au cours de l'hiver 2019-2020 entre 18h00 et 23h00. On peut supposer que la production de cette œuvre d'art a eu lieu à ce temps car aucune autre date n'est disponible.
+L'œuvre d'art était accessible au public au cours des hivers 2019-2020 entre 18h00 et 23h00. On peut supposer que la production de cette œuvre d'art a eu lieu à ce temps car aucune autre date n'est disponible.
 
 
 ## Où?
