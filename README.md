@@ -25,11 +25,13 @@
 ## Qui?
 (Auteur, Équipe)
 
-Nom(s) de l'auteur ou des auteurs : Mentionnez le ou les créateurs de l'œuvre.
+Créé par les étudiants du Cégep André-Laurendeau et Manuel Chantre
 
-Équipe de production : Si l'œuvre a été réalisée par une équipe, nommez les membres clés et leur rôle (réalisateur, compositeur, programmeur, etc.).
+Concept, dessin technique paramétrique, production, ateliers : # Manuel Chantre
+Contribution visuelle : Francis Tremblay
+Participant·e·s aux ateliers : Sarra Boussoukaya, Madouba Diallo, Maité Muriel Ingar Diaz, Diego Jacazio, Nathalie Nguyen et Chloé Puigpinos
+Production : Olivier Heaps-Drolet, Annie Lévesque, Patrick Akadji et Émilie Lévesque-Clément.
 
-Collaborateurs et partenaires : Indiquez les institutions, sponsors ou partenaires qui ont contribué à la réalisation de l'œuvre.
 
 ![Image 1](/Images/1.jpg)
 
