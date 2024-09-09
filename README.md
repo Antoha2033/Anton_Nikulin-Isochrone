@@ -120,15 +120,15 @@ L'élément clé de l'œuvre "Isochrone" est la sculpture lumineuse tridimension
 
 ### Fonctionnement :
 
-Mouvement : Le mécanisme interne de la sculpture permet à ses parties de se bouger en imitant le cercle en mouvement.
+Mouvement : Le mécanisme interne de la sculpture permet à  crée l'ulusion de mouvement en imitant le cercle en mouvement.
 
-Éclairage LED : Les LEDs sont programmées pour émettre des variations lumineuses qui réagissent au mouvement de la sculpture.
+Éclairage LED : Les LEDs sont programmées pour émettre des variations lumineuses.
 
-La sculpture évolue visuellement au fur et à mesure de son mouvement, permettant aux visiteurs d'observer des transformations lumineuses en temps réel. Cette dynamique aide à exprimer le concept d’isochronisme, en montrant comment deux éléments peuvent fonctionner en harmonie pour créer une expérience simultanée et intégrée. 
+La sculpture évolue visuellement au fur et à mesure de son mouvement, permettant aux visiteurs d'observer des transformations lumineuses en temps réel. Cette dynamique aide à exprimer le concept d’isochronisme, en montrant comment deux éléments LED peuvent fonctionner en harmonie avec la sculpture pour créer une expérience simultanée et intégrée. 
 
 ### Impact :
 
-La composante centrale de Isochrone distingue l'œuvre dans le paysage multimédia par son intégration de la technologie lumineuse et du mouvement mécanique. En utilisant ces techniques crée une œuvre qui non seulement capte l'attention par sa beauté visuelle, mais aussi engage le public sur un plan intellectuel et sensoriel. Cette interaction entre lumière et mouvement offre une expérience immersive qui se distingue par son approche unique de la sculpture.
+La composante centrale de Isochrone distingue l'œuvre dans le paysage multimédia par son intégration de la technologie lumineuse et du mouvement. En utilisant ces techniques crée une œuvre qui capte l'attention par sa beauté visuelle. Cette interaction entre lumière et mouvement offre une expérience immersive qui se distingue par son approche unique de la sculpture.
 
 ## Appréciation et commentaire personnel
 
