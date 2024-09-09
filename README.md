@@ -76,7 +76,7 @@ La pièce a été réalisée avec du Bois, peinture acrylique, lecteur de fichie
 
 Objectifs de l'œuvre : Expliquez les intentions de l'auteur ou de l'équipe. Quel message ou expérience souhaite-t-elle transmettre ?
 
-### Public cible :
+### Public ciblé :
 
 Le public visé par l'œuvre comprend les amateurs d'art contemporain, ceux intéressés par les installations artistiques utilisant la lumière et la technologie ainsi que les professionnels et étudiants en art, design, et technologie.
 
