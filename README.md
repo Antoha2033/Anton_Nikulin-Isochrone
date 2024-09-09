@@ -27,8 +27,11 @@
 # Manuel Chantre
 
 Concept, dessin technique paramétrique, production, ateliers : # Manuel Chantre
+
 Contribution visuelle : Francis Tremblay
+
 Participant·e·s aux ateliers : Sarra Boussoukaya, Madouba Diallo, Maité Muriel Ingar Diaz, Diego Jacazio, Nathalie Nguyen et Chloé Puigpinos
+
 Production : Olivier Heaps-Drolet, Annie Lévesque, Patrick Akadji et Émilie Lévesque-Clément.
 
 
