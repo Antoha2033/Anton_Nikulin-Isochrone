@@ -29,9 +29,9 @@ Concept, dessin technique paramétrique, production, ateliers : Manuel Chantre
 
 Contribution visuelle : Francis Tremblay
 
-Participant·e·s aux ateliers : Sarra Boussoukaya, Madouba Diallo, Maité Muriel Ingar Diaz, Diego Jacazio, Nathalie Nguyen, Chloé Puigpinos et étudiants du Cégep André-Laurendeau
-
 Production : Olivier Heaps-Drolet, Annie Lévesque, Patrick Akadji et Émilie Lévesque-Clément.
+
+Participant·e·s aux ateliers : Sarra Boussoukaya, Madouba Diallo, Maité Muriel Ingar Diaz, Diego Jacazio, Nathalie Nguyen, Chloé Puigpinos et étudiants du Cégep André-Laurendeau
 
 
 
