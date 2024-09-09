@@ -36,11 +36,8 @@ L'œuvre d'art était accessible au public au cours de l'hiver 2019-2020 entre 1
 
 
 Cinéma,Cinémathèque Québécoise, Montréal (CA), 2020
-
 MAPP_MTL, Never Apart, Montréal (CA), 2020-2019
-
 Maison de la cutlture Marie-Uguay, Montréal (CA), 2019
-
 Galerie SAT - Société des arts technologiques 
 
 
