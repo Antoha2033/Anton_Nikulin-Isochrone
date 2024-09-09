@@ -16,6 +16,9 @@
 
 ### Manuel Chantre
 
+Artiste visuel numérique, Manuel Chantre crée des installations et des performances mêlant lumière, vidéo, musique et interactivité, explorant mémoire, identité et espaces imaginaires.
+
+
 Concept, dessin technique paramétrique, production, ateliers : # Manuel Chantre
 
 Contribution visuelle : Francis Tremblay
