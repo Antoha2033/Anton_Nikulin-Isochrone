@@ -49,9 +49,8 @@ Cet intérêt pour le cycle de croissance des végétaux pourrait provenir des e
 
 ## Quoi?
 
-Isochrone est une série de sculptures lumineuses inspirées du cercle en mouvement comme un principe de croissance chez certains végétaux. La forme tridimensionnelle de la sculpture en bois et son mouvement lumineux représentent la notion d’isochronisme. 
-
-Créée en collaboration avec des étudiants du Cégep André-Laurendeau, cette installation est le résultat d'une série d'explorations guidées par les concepts de mimétisme, de la suite de Fibonacci et de design paramétrique.
+# Isochrone est une série de sculptures lumineuses inspirées du cercle en mouvement comme un principe de croissance chez certains végétaux. La forme tridimensionnelle de la sculpture en bois et son mouvement lumineux représentent la notion d’isochronisme, c’est-à-dire la simultanéité de deux phénomènes. 
+Créée en collaboration avec des étudiant·e·s du Cégep André-Laurendeau, cette installation est le résultat d'une série d'explorations guidées par les concepts de mimétisme, de la suite de Fibonacci et de design paramétrique. La forme de la sculpture et la projection vidéo sont toutes deux générées par des formules mathématiques du cercle créant un dialogue entre la lumière, la forme et un principe universel.
 
 <table>
   <tr>
