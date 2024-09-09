@@ -49,8 +49,41 @@ Cet intérêt pour le cycle de croissance des végétaux pourrait provenir des e
 
 ## Quoi?
 
-# Isochrone est une série de sculptures lumineuses inspirées du cercle en mouvement comme un principe de croissance chez certains végétaux. La forme tridimensionnelle de la sculpture en bois et son mouvement lumineux représentent la notion d’isochronisme, c’est-à-dire la simultanéité de deux phénomènes. 
-Créée en collaboration avec des étudiant·e·s du Cégep André-Laurendeau, cette installation est le résultat d'une série d'explorations guidées par les concepts de mimétisme, de la suite de Fibonacci et de design paramétrique. La forme de la sculpture et la projection vidéo sont toutes deux générées par des formules mathématiques du cercle créant un dialogue entre la lumière, la forme et un principe universel.
+### Objectifs de l'œuvre :
+
+Les intentions de Manuel Chantre avec "Isochrone" sont de créer une expérience immersive qui explore la relation entre lumière, forme, et mouvement, en s’inspirant du cercle en mouvement comme symbole de croissance naturelle. L'œuvre vise à illustrer le concept d'isochronisme, c'est-à-dire la simultanéité de phénomènes différents, en utilisant des sculptures lumineuses pour évoquer la manière dont des éléments naturels et technologiques peuvent interagir de manière synchronisée. Le message principal est de souligner l'harmonie entre la nature et la technologie, tout en invitant le public à réfléchir sur la perception du temps et de l'espace à travers le mouvement et la lumière.
+
+La pièce a été réalisée avec du Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo.
+
+Objectifs de l'œuvre : Expliquez les intentions de l'auteur ou de l'équipe. Quel message ou expérience souhaite-t-elle transmettre ?
+
+## Public cible :
+
+Le public visé par l'œuvre comprend les amateurs d'art contemporain, ceux intéressés par les installations artistiques utilisant la lumière et la technologie ainsi que les professionnels et étudiants en art, design, et technologie.
+
+## Aspects techniques :
+
+Technologie d’éclairage LED : Utilisée pour produire des effets lumineux dynamiques.
+
+Mécanismes de mouvement : Intégrés dans la sculpture pour simuler le cercle en mouvement.
+
+Matériaux : Bois pour la structure de base de la sculpture, combiné avec la peinture acrylique pour optimiser la diffusion de la lumière par des projecteurs vidéo.
+
+Système de contrôle : Programmation des séquences lumineuses et des mouvements à l’aide de contrôleurs électroniques et de logiciels de gestion de l’éclairage.
+
+## Processus de création :
+
+Le processus de création de "Isochrone" a impliqué plusieurs étapes clés :
+
+Conception initiale : Manuel Chantre a développé le concept en s'inspirant de la croissance naturelle et des principes d’isochronisme. Cette phase a inclus des croquis et des maquettes pour visualiser l’interaction entre la forme et la lumière.
+
+Développement technique : Création des prototypes en utilisant des matériaux comme le bois et des composants d'éclairage LED. Cela a impliqué la recherche et le choix des technologies adaptées pour obtenir les effets désirés.
+
+Programmation : Développement des séquences lumineuses et des mouvements des sculptures, souvent à l’aide de logiciels spécialisés pour la gestion des effets lumineux et des moteurs de mouvement.
+
+Montage et ajustements : Assemblage des sculptures et ajustements finaux pour assurer la synchronisation précise des éléments lumineux et mobiles, et tester l’impact visuel global.
+
+Présentation : Installation de l'œuvre dans des espaces d'exposition appropriés et préparation des éléments interactifs pour permettre au public de vivre l'expérience comme prévu par l’artiste.
 
 <table>
   <tr>
@@ -68,16 +101,6 @@ Créée en collaboration avec des étudiant·e·s du Cégep André-Laurendeau, c
     <td><img src="Images/6.jpg" alt="Image 6" ></td>
   </tr>
 </table>
-
-La pièce a été réalisée avec du Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo.
-
-Objectifs de l'œuvre : Expliquez les intentions de l'auteur ou de l'équipe. Quel message ou expérience souhaite-t-elle transmettre ?
-
-Public cible : Qui est le public visé par cette œuvre ?
-
-Aspects techniques : Décrivez les aspects techniques importants, comme les technologies utilisées, les supports ou les médiums exploités.
-
-Processus de création : Fournissez des détails sur la manière dont l'œuvre a été développée. Cela peut inclure des éléments comme l'écriture du scénario, la composition musicale, la programmation, etc.
 
 
 ## Comment?
