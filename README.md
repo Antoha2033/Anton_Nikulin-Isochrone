@@ -49,6 +49,23 @@ Cet intérêt pour le cycle de croissance des végétaux pourrait provenir des e
 
 ## Quoi?
 
+<table>
+  <tr>
+    <td><img src="Images/1.jpg" alt="Image 1" ></td>
+    <td><img src="Images/2.jpg" alt="Image 2" ></td>
+  </tr>
+    
+  <tr>
+    <td><img src="Images/3.jpg" alt="Image 3" ></td>
+    <td><img src="Images/4.jpg" alt="Image 4" ></td>
+  </tr>
+    
+  <tr>
+    <td><img src="Images/5.jpg" alt="Image 5" ></td>
+    <td><img src="Images/6.jpg" alt="Image 6" ></td>
+  </tr>
+</table>
+
 # Objectifs de l'œuvre :
 
 Les intentions de Manuel Chantre avec "Isochrone" sont de créer une expérience immersive qui explore la relation entre lumière, forme, et mouvement, en s’inspirant du cercle en mouvement comme symbole de croissance naturelle. L'œuvre vise à illustrer le concept d'isochronisme, c'est-à-dire la simultanéité de phénomènes différents, en utilisant des sculptures lumineuses pour évoquer la manière dont des éléments naturels et technologiques peuvent interagir de manière synchronisée. Le message principal est de souligner l'harmonie entre la nature et la technologie, tout en invitant le public à réfléchir sur la perception du temps et de l'espace à travers le mouvement et la lumière.
@@ -85,22 +102,7 @@ Montage et ajustements : Assemblage des sculptures et ajustements finaux pour as
 
 Présentation : Installation de l'œuvre dans des espaces d'exposition appropriés et préparation des éléments interactifs pour permettre au public de vivre l'expérience comme prévu par l’artiste.
 
-<table>
-  <tr>
-    <td><img src="Images/1.jpg" alt="Image 1" ></td>
-    <td><img src="Images/2.jpg" alt="Image 2" ></td>
-  </tr>
-    
-  <tr>
-    <td><img src="Images/3.jpg" alt="Image 3" ></td>
-    <td><img src="Images/4.jpg" alt="Image 4" ></td>
-  </tr>
-    
-  <tr>
-    <td><img src="Images/5.jpg" alt="Image 5" ></td>
-    <td><img src="Images/6.jpg" alt="Image 6" ></td>
-  </tr>
-</table>
+
 
 
 ## Comment?
