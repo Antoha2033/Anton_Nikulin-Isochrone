@@ -74,7 +74,6 @@ Les intentions de Manuel Chantre avec "Isochrone" sont de créer une expérience
 
 La pièce a été réalisée avec du Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo.
 
-Objectifs de l'œuvre : Expliquez les intentions de l'auteur ou de l'équipe. Quel message ou expérience souhaite-t-elle transmettre ?
 
 ### Public ciblé :
 
