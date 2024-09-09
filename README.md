@@ -39,7 +39,7 @@ MAPP_MTL, Never Apart, Montréal (CA), 2020-2019
 
 Maison de la cutlture Marie-Uguay, Montréal (CA), 2019
 
-Galerie SAT - Société des arts technologiques 
+Galerie SAT - Société des arts technologiques
 
 
 Isochrone est inspirée du cercle en mouvement, un principe de croissance observé chez certains végétaux. La sculpture en bois, avec sa forme tridimensionnelle et son mouvement lumineux, illustre le concept d’isochronisme, qui évoque la simultanéité de deux phénomènes.
@@ -48,7 +48,10 @@ Cet intérêt pour le cycle de croissance des végétaux pourrait provenir des e
 
 
 ## Quoi?
-(Description de l'œuvre)
+
+Isochrone est une série de sculptures lumineuses inspirées du cercle en mouvement comme un principe de croissance chez certains végétaux. La forme tridimensionnelle de la sculpture en bois et son mouvement lumineux représentent la notion d’isochronisme. 
+
+Créée en collaboration avec des étudiants du Cégep André-Laurendeau, cette installation est le résultat d'une série d'explorations guidées par les concepts de mimétisme, de la suite de Fibonacci et de design paramétrique.
 
 <table>
   <tr>
@@ -67,7 +70,7 @@ Cet intérêt pour le cycle de croissance des végétaux pourrait provenir des e
   </tr>
 </table>
 
-Description générale : Donnez une vue d'ensemble de l'œuvre. Qu'est-ce que c'est ? (installation, performance, vidéo, réalité virtuelle, etc.)
+La pièce a été réalisée avec du Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo.
 
 Objectifs de l'œuvre : Expliquez les intentions de l'auteur ou de l'équipe. Quel message ou expérience souhaite-t-elle transmettre ?
 
