@@ -20,30 +20,33 @@ Concept, dessin technique paramétrique, production, ateliers : # Manuel Chantre
 
 Contribution visuelle : Francis Tremblay
 
-Participant·e·s aux ateliers : Sarra Boussoukaya, Madouba Diallo, Maité Muriel Ingar Diaz, Diego Jacazio, Nathalie Nguyen et Chloé Puigpinos
+Participant·e·s aux ateliers : Sarra Boussoukaya, Madouba Diallo, Maité Muriel Ingar Diaz, Diego Jacazio, Nathalie Nguyen, Chloé Puigpinos et étudiants du Cégep André-Laurendeau
 
 Production : Olivier Heaps-Drolet, Annie Lévesque, Patrick Akadji et Émilie Lévesque-Clément.
 
 
 
 ## Quand?
-(Date de création et de présentation)
 
-Date de création : Précisez quand l'œuvre a été créée. Mentionnez les périodes de conception, de développement, et de production si pertinent.
 
-Date de première présentation : Indiquez la date à laquelle l'œuvre a été présentée au public pour la première fois.
-
-Dates importantes : Ajoutez toute autre date significative liée à l'œuvre, comme les dates de tournées, d'expositions ou de remises de prix.
+L'œuvre d'art était accessible au public au cours de l'hiver 2019-2020 entre 18h00 et 23h00. On peut supposer que la production de cette œuvre d'art a eu lieu à ce temps car aucune autre date n'est disponible.
 
 
 ## Où?
-(Contexte de présentation)
 
-Lieu de présentation initiale : Mentionnez l'endroit où l'œuvre a été présentée pour la première fois (galerie, musée, festival, en ligne, etc.).
 
-Contexte géographique et culturel : Donnez des détails sur le cadre culturel ou géographique qui a influencé la présentation de l'œuvre. Par exemple, si l'œuvre a été conçue pour un public spécifique ou si elle reflète des aspects culturels particuliers.
+Cinéma,Cinémathèque Québécoise, Montréal (CA), 2020
 
-Autres lieux de présentation : Si l'œuvre a été présentée en plusieurs endroits, énumérez ces lieux avec les dates correspondantes.
+MAPP_MTL, Never Apart, Montréal (CA), 2020-2019
+
+Maison de la cutlture Marie-Uguay, Montréal (CA), 2019
+
+Galerie SAT - Société des arts technologiques 
+
+
+Isochrone est inspirée du cercle en mouvement, un principe de croissance observé chez certains végétaux. La sculpture en bois, avec sa forme tridimensionnelle et son mouvement lumineux, illustre le concept d’isochronisme, qui évoque la simultanéité de deux phénomènes.
+
+Cet intérêt pour le cycle de croissance des végétaux pourrait provenir des environs du Québec qui sont encore aujourd'hui dominés par le secteur agricole.
 
 
 ## Quoi?
