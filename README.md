@@ -1,6 +1,6 @@
 # "Isochrone"
 
-
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/535573224?h=816664253b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 
 # Qui?
@@ -101,14 +101,20 @@ Montage et ajustements : Assemblage des sculptures et ajustements finaux pour as
 Présentation : Installation de l'œuvre dans des espaces d'exposition appropriés et préparation des éléments interactifs pour permettre au public de vivre l'expérience comme prévu par l’artiste.
 
 
-
-
 # Comment?
-(Une composante centrale à l'œuvre et son fonctionnement)
 
-Composante centrale : Identifiez l'élément clé qui caractérise l'œuvre. Cela pourrait être une technologie spécifique, une approche narrative, ou une interaction particulière avec le public.
 
-Fonctionnement : Expliquez comment cette composante centrale opère dans l'œuvre. Comment contribue-t-elle à l'expérience globale ? Quel rôle joue-t-elle dans l'engagement du public ou dans l'atteinte des objectifs de l'œuvre ?
+## Composante centrale :
+
+L'élément clé de l'œuvre "Isochrone" est la sculpture lumineuse tridimensionnelle intégrant un mécanisme de mouvement synchronisé avec des effets d’éclairage LED.
+
+## Fonctionnement :
+
+Mouvement et Forme : Le mécanisme interne de la sculpture permet à ses parties de se mouvoir en imitant le cercle en mouvement. Ce mouvement est soigneusement calibré pour créer des motifs et des changements dans la perception de la lumière.
+
+Éclairage LED : Les LEDs sont programmées pour émettre des variations lumineuses qui réagissent au mouvement de la sculpture. La lumière et le mouvement sont synchronisés pour accentuer les motifs créés, créant ainsi une expérience visuelle dynamique.
+
+Ces éléments contribuent à l'expérience globale en offrant une interaction constante entre le spectateur et l'œuvre. La sculpture évolue visuellement au fur et à mesure de son mouvement, permettant aux visiteurs d'observer des transformations lumineuses en temps réel. Cette dynamique aide à exprimer le concept d’isochronisme, en montrant comment deux éléments peuvent fonctionner en harmonie pour créer une expérience simultanée et intégrée. 
 
 Impact : Discutez de l'impact de cette composante sur la réception de l'œuvre. En quoi cet élément distingue-t-il l'œuvre dans le paysage multimédia ?
 
