@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td><img src="Images/2.jpg" alt="Image 2" ></td>
+    <td><img src="Images/3.jpg" alt="Image 3" width=600 height=600></td>
   </tr>
 
 </table>
