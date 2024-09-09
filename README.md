@@ -100,15 +100,15 @@ Système de contrôle : Programmation des séquences lumineuses et des mouvement
 
 Le processus de création de "Isochrone" a impliqué plusieurs étapes clés :
 
-Conception initiale : Manuel Chantre a développé le concept en s'inspirant de la croissance naturelle et des principes d’isochronisme. Cette phase a inclus des croquis et des maquettes pour visualiser l’interaction entre la forme et la lumière.
+Conception initiale : Manuel Chantre a développé le concept en s'inspirant des principes d’isochronisme. Cette phase a inclus des croquis et des maquettes pour visualiser la piece.
 
-Développement technique : Création des prototypes en utilisant des matériaux comme le bois et des composants d'éclairage LED. Cela a impliqué la recherche et le choix des technologies adaptées pour obtenir les effets désirés.
+Développement technique : Création des prototypes en utilisant des matériaux comme le bois et des composants d'éclairage LED.
 
-Programmation : Développement des séquences lumineuses et des mouvements des sculptures, souvent à l’aide de logiciels spécialisés pour la gestion des effets lumineux et des moteurs de mouvement.
+Programmation : Développement des séquences lumineuses et des mouvements des sculptures, probablement l’aide de logiciels spécialisés pour la gestion des effets lumineux.
 
-Montage et ajustements : Assemblage des sculptures et ajustements finaux pour assurer la synchronisation précise des éléments lumineux et mobiles, et tester l’impact visuel global.
+Montage et ajustements : Assemblage des sculptures et ajustements finaux pour assurer la synchronisation précise des éléments lumineux et mobiles.
 
-Présentation : Installation de l'œuvre dans des espaces d'exposition appropriés et préparation des éléments interactifs pour permettre au public de vivre l'expérience comme prévu par l’artiste.
+Présentation : Installation de l'œuvre dans des espaces d'exposition et préparation des éléments interactifs pour permettre au public de vivre l'expérience.
 
 
 ## Comment?
