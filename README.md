@@ -49,7 +49,7 @@ Cet intérêt pour le cycle de croissance des végétaux pourrait provenir des e
 
 ## Quoi?
 
-### Objectifs de l'œuvre :
+# Objectifs de l'œuvre :
 
 Les intentions de Manuel Chantre avec "Isochrone" sont de créer une expérience immersive qui explore la relation entre lumière, forme, et mouvement, en s’inspirant du cercle en mouvement comme symbole de croissance naturelle. L'œuvre vise à illustrer le concept d'isochronisme, c'est-à-dire la simultanéité de phénomènes différents, en utilisant des sculptures lumineuses pour évoquer la manière dont des éléments naturels et technologiques peuvent interagir de manière synchronisée. Le message principal est de souligner l'harmonie entre la nature et la technologie, tout en invitant le public à réfléchir sur la perception du temps et de l'espace à travers le mouvement et la lumière.
 
@@ -57,11 +57,11 @@ La pièce a été réalisée avec du Bois, peinture acrylique, lecteur de fichie
 
 Objectifs de l'œuvre : Expliquez les intentions de l'auteur ou de l'équipe. Quel message ou expérience souhaite-t-elle transmettre ?
 
-## Public cible :
+# Public cible :
 
 Le public visé par l'œuvre comprend les amateurs d'art contemporain, ceux intéressés par les installations artistiques utilisant la lumière et la technologie ainsi que les professionnels et étudiants en art, design, et technologie.
 
-## Aspects techniques :
+# Aspects techniques :
 
 Technologie d’éclairage LED : Utilisée pour produire des effets lumineux dynamiques.
 
@@ -71,7 +71,7 @@ Matériaux : Bois pour la structure de base de la sculpture, combiné avec la pe
 
 Système de contrôle : Programmation des séquences lumineuses et des mouvements à l’aide de contrôleurs électroniques et de logiciels de gestion de l’éclairage.
 
-## Processus de création :
+# Processus de création :
 
 Le processus de création de "Isochrone" a impliqué plusieurs étapes clés :
 
